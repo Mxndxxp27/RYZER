@@ -1,0 +1,232 @@
+# RYZER™ Privacy Policy
+
+
+This Privacy Policy explains how **RYZER™** ("the Bot", "we", "us", or "our") handles information when you use RYZER™ on Discord.
+
+By adding or using **RYZER™**, you acknowledge and agree to the practices described in this Privacy Policy. Your use of the Bot is also covered by our [Terms and Conditions](./terms-and-conditions.md).
+
+---
+
+## 1. About RYZER™
+
+**RYZER™** is an all-in-one Discord bot providing various features including:
+
+- Moderation
+- Server Security
+- Automation
+- Welcome & Autorole
+- Server Management
+- Utility Features
+- Configuration Systems
+- Logging and Security Features
+
+Different features may require different types of Discord information to function correctly.
+
+---
+
+## 2. Information We Process
+
+Depending on the features enabled in a Discord server, RYZER™ may process or store the following information.
+
+### Discord User Information
+
+RYZER™ may process:
+
+- Discord User ID
+- Discord username
+- Discord display name
+- User-related configuration
+- Information required for specific Bot features
+
+### Server Information
+
+RYZER™ may process or store:
+
+- Discord Server ID
+- Channel IDs
+- Role IDs
+- Server configuration
+- RYZER™ feature settings
+
+### Configuration Information
+
+To provide server-specific functionality, RYZER™ may store configuration such as:
+
+- Prefix configuration
+- Welcome settings
+- Autorole settings
+- Moderation settings
+- Anti-Link settings
+- Anti-Invite settings
+- Badword filter settings
+- Logging settings
+- Other enabled feature configurations
+
+### Logging Information
+
+If a server enables logging or security features, RYZER™ may process or record the events and actions that the server has configured it to track (for example moderation actions or member events), including the related User IDs, Channel IDs, and Role IDs. What is recorded depends on the features and settings the server chooses.
+
+---
+
+## 3. Message Content
+
+Some RYZER™ features require access to message content.
+
+The **Message Content Intent** may be used by features such as:
+
+- Anti-Link
+- Anti-Invite
+- Badword Filtering
+- Other message-based moderation and security features
+
+For these features, RYZER™ may inspect message content to determine whether a configured rule has been violated.
+
+> **Message content is processed only when required by a feature that depends on message content.**
+
+RYZER™ does not use message content for unrelated purposes, and does not sell message content.
+
+---
+
+## 4. Server Members
+
+The **Server Members Intent** may be used for member-related functionality such as:
+
+- Welcome messages
+- Automatic role assignment
+- Member-related server features
+- Member events required by enabled features
+
+This information is used only to provide the relevant functionality of the Bot.
+
+---
+
+## 5. How We Use Information
+
+Information processed by RYZER™ may be used to:
+
+- Provide Bot functionality
+- Apply server configurations
+- Provide moderation and security features
+- Detect configured violations
+- Assign roles automatically
+- Send welcome messages
+- Maintain Bot functionality
+- Maintain security and prevent abuse
+- Troubleshoot technical issues
+- Improve reliability and performance
+
+> **We do not use information for purposes unrelated to the operation of RYZER™.**
+
+---
+
+## 6. Data We Do Not Sell
+
+**RYZER™ does not sell, rent, or trade user information or server information to third parties for advertising or marketing purposes.**
+
+We do not intentionally make users' information publicly available.
+
+---
+
+## 7. Data Security
+
+We take reasonable technical and organizational measures to protect information processed by RYZER™ against:
+
+- Unauthorized access
+- Unauthorized disclosure
+- Unauthorized modification
+- Loss or destruction
+
+However, no online service can guarantee **100% security**.
+
+---
+
+## 8. Data Retention
+
+RYZER™ retains information only for as long as reasonably necessary to provide the relevant Bot functionality or maintain required configuration.
+
+The amount and type of information retained may depend on the features enabled by a server.
+
+If information is no longer required for the relevant functionality, it may be deleted or removed according to our applicable data-handling practices.
+
+---
+
+## 9. Data Deletion
+
+Users or server administrators may request deletion of applicable stored information associated with their use of RYZER™.
+
+For a deletion request, please provide:
+
+- **Discord User ID**
+- **Discord Server ID**, if applicable
+- A description of the information you want deleted
+
+We may request additional information to verify the request.
+
+For assistance, contact us through the official RYZER™ support server.
+
+---
+
+## 10. Third-Party Services
+
+RYZER™ operates through the **Discord platform** and may use third-party services for specific Bot functionality.
+
+Third-party services may have their own:
+
+- Privacy Policies
+- Terms of Service
+- Data-handling practices
+
+RYZER™ is not responsible for privacy practices outside our control.
+
+Users should review the applicable policies of third-party services they interact with.
+
+---
+
+## 11. Children's Privacy
+
+RYZER™ is intended for users who meet the minimum age required by Discord (**13 years or older**, or higher where local law requires).
+
+RYZER™ does not knowingly collect personal information from children under this age. If we learn that such information has been collected, we will delete it.
+
+Users must comply with the applicable **Discord Terms of Service** and age requirements.
+
+---
+
+## 12. Changes to This Privacy Policy
+
+We may update this Privacy Policy when:
+
+- RYZER™ functionality changes
+- Data-handling practices change
+- Legal or regulatory requirements change
+- Additional privacy information needs to be provided
+
+When changes are made, the **Last Updated** date at the top of this document will be updated.
+
+> Continued use of RYZER™ after an updated Privacy Policy is published constitutes acknowledgment of the updated policy, where applicable.
+
+---
+
+## 13. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data, contact us through:
+
+### RYZER™ Support Server
+
+**Support:** [Join the RYZER™ Support Server](https://dsc.gg/coredevs)
+
+---
+
+## 14. Related Policies
+
+- [RYZER™ Terms and Conditions](./terms-and-conditions.md)
+- [Discord Terms of Service](https://discord.com/terms)
+- [Discord Privacy Policy](https://discord.com/privacy)
+
+---
+
+### © 2026 RYZER™
+
+**RYZER™** — All-in-One Discord Bot
+
+*This Privacy Policy applies to the RYZER™ Discord Bot and its associated services.*
